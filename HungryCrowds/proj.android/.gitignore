@@ -1,0 +1,13 @@
+/bin
+/gen
+/libs
+/obj
+/Classes
+/Resources
+/cocos2dx
+/CocosDenshion
+/assets
+.cproject
+.project
+.settings
+project.properties

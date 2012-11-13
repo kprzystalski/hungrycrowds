@@ -1,0 +1,1 @@
+bash ${workspace_loc:/HungryCrowds}/build_native.sh NDK_DEBUG=1 V=1
